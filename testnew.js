@@ -8,4 +8,3 @@ console.log('bhavin');
 console.log('amrit');
 console.log('new');
 
-console.log(amrit);
