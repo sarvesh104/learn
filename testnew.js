@@ -6,4 +6,5 @@ console.log('hi!!');
 console.log('ayush');
 console.log('bhavin');
 console.log('amrit');
+console.log('new');
 
