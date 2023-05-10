@@ -7,3 +7,4 @@ console.log('bhavin');
 console.log('hi!!');
 console.log(amrit);
 
+console.log(amrit);
